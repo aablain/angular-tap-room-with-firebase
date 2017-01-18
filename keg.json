@@ -1,0 +1,14 @@
+{
+  "kegs" : [{
+    "name" : "Ginger-Lemon",
+    "brand" : "Health-Ade",
+    "sugar" : 5,
+    "price" : 6
+    },
+    {
+    "name" : "Trilogy",
+    "brand" : "Enlightened",
+    "sugar" : 4,
+    "price" : 5
+      }]
+}
